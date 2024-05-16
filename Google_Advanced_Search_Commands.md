@@ -60,4 +60,22 @@
 
 <pre><code class="language-sh">search term site:example.com</code></pre>
 
+<ol start="11">
+  <li><strong>Search for pages with a specific word in the title:</strong></li>
+</ol>
+
+<pre><code class="language-sh">intitle:word</code></pre>
+
+<ol start="12">
+  <li><strong>Search for pages containing either one term or another:</strong></li>
+</ol>
+
+<pre><code class="language-sh">term1 OR term2</code></pre>
+
+<ol start="13">
+  <li><strong>Search for pages containing all specified terms:</strong></li>
+</ol>
+
+<pre><code class="language-sh">term1 AND term2</code></pre>
+
 <p>These commands can help you refine your Google searches and find more relevant results.</p>
